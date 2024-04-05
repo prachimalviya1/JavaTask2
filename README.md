@@ -1,4 +1,4 @@
--Guessing Number Game
+*Guessing Number Game
 
 This Java program implements a simple game where the user has to guess a random number 1 to 100 in 6 trials or less. The program gives hints to the user after each guess,indicating whether the number is greater or less than their guess.If the user is unable to guess the number within 6 trials,the program reveals the number.
 
@@ -7,7 +7,7 @@ This Java program implements a simple game where the user has to guess a random 
 My Portfolio-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-malviya-512a40258)
 
 
--How to Play
+*How to Play
 
 1.Compile and run the Java program.
 
@@ -22,7 +22,7 @@ Guess the number between 1 and 100 within 6 trials.
 6.If you guess the number correctly,the prograqm will print a congratulations message.If you are unable to guess the number,the program will reveal the number.
 
 
--Compiling and Running
+*Compiling and Running
 
 To compile the program,navigate to the directory containing the Java file and run the following command:
 
@@ -32,6 +32,6 @@ To run the program,run the following command:
 
 java Task
 
--License
+*License
 
 This project is licensed under the MIT License-see the LICENSE.md file for details.
