@@ -21,7 +21,9 @@ My Portfolio-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for
 Guess the number between 1 and 100 within 6 trials.
 
 4.The Program will give you a hint,indicating whether the number is greater or less than your guess.For eg.
+
 Guess the number:40
+
 The number is Greater than 40.Try Again!
 
 5.Continue guessing until you either guess the number correctly or have used up all 6 trials.
