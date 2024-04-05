@@ -2,7 +2,8 @@ Guessing Number Game
 This Java program implements a simple game where the user has to guess a random number 1 to 100 in 6 trials or less. The program gives hints to the user after each guess,indicating whether the number is greater or less than their guess.If the user is unable to guess the number within 6 trials,the program reveals the number.
 
 🔗 Links
-My Portfolio-linkedin
+My Portfolio-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-malviya-512a40258)
+
 
 How to Play
 1.Compile and run the Java program.
